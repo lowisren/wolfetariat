@@ -1,4 +1,4 @@
-var themename = 'humescores';
+var themename = 'wolf';
 
 var gulp = require('gulp'),
 	// Prepare and optimize code etc
@@ -58,7 +58,7 @@ gulp.task('javascript', function() {
 gulp.task('watch', function() {
 	browserSync.init({ 
 		open: 'external',
-		proxy: 'humescores.dev',
+		proxy: 'wolfetariat.local',
 		port: 8080
 	});
 	gulp.watch([root + '**/*.css', root + '**/*.scss' ], ['css']);
