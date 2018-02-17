@@ -1,0 +1,56 @@
+.site-content{
+  padding: 1em;
+  @media screen and (min-width: $query-small)  {
+    padding: 2em;
+  }
+
+}
+
+.site-content {
+	max-width: $size-max-width;
+	margin: 0 auto;
+}
+
+@media screen and (min-width: $query-medium) {
+	.has-sidebar {
+
+		.hentry {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: space-between;
+
+			.entry-header {
+				width: 100%;
+				flex: 1 0 100%;
+			}
+
+			.post-content {
+				width: $size-ratio-large;
+			}
+
+			.widget-area {
+				width: $size-ratio-small;
+			}
+		}
+
+	}
+}
+
+@media screen and (min-width: $query-medium) {
+	.no-sidebar {
+
+		.post-content-wrap {
+			display: flex;
+			justify-content: space-between;
+
+			.entry-meta {
+				width: 20%;
+			}
+
+			.post-content-body {
+				width: 70%;
+			}
+		}
+
+	}
+}

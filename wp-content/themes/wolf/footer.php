@@ -13,22 +13,22 @@
 
 	</div><!-- #content -->
 
+<?php get_sidebar( 'footer' ); ?>
+
 	<footer id="colophon" class="site-footer">
+        <nav class="social-menu">
+		<?php wp_nav_menu( array( 'theme_location' => 'social') ); ?>
+
 		<div class="site-info">
-			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'wolf' ) ); ?>"><?php
-				/* translators: %s: CMS name, i.e. WordPress. */
-				printf( esc_html__( 'Proudly powered by %s', 'wolf' ), 'WordPress' );
-			?></a>
-			<span class="sep"> | </span>
 			<?php
-				/* translators: 1: Theme name, 2: Theme author. */
-				printf( esc_html__( 'Theme: %1$s by %2$s.', 'wolf' ), 'wolf', '<a href="https://design.oit.ncsu.edu">Lauren Etheridge</a>' );
+				/* translators: 1: Theme name, 2: Theme author */
+				printf( esc_html__( 'Theme: %1$s by %2$s', 'wolf' ), 'wolf', '<span class="sep"> | </span><a class="author-link" href="https://design.oit.ncsu.edu">Lauren Etheridge</a>' );
 			?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
-<?php wp_footer(); ?>
+<?php wp_footer('footer-1'); ?>
 
 </body>
 </html>
