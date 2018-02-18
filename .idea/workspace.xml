@@ -2,36 +2,227 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e8bc0f8-2429-4032-9349-d68ef011f57c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/navigation/_content-navigation.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sidebar-footer.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/template-parts/content-single.php" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/duck/page-home.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/duck/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/duck/template-parts/content-home.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/duck/template-parts/header-nav.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/wp-content/index.php" afterPath="$PROJECT_DIR$/wp-content/index.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/.htaccess" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/.htaccess" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/LICENSE.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/LICENSE.txt" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.css" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.js" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/form.js" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/form.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/img/logo-full-2x.png" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/img/logo-full-2x.png" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/akismet.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/akismet.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-admin.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-admin.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-cli.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-cli.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-rest-api.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-rest-api.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-widget.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-widget.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/index.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/index.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/readme.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/readme.txt" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/config.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/config.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/get.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/get.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/notice.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/notice.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/start.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/start.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/stats.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/stats.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/wrapper.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/wrapper.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/index.php" afterPath="$PROJECT_DIR$/wp-content/plugins/index.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/gulp-dev/Gulpfile.js" afterPath="$PROJECT_DIR$/wp-content/themes/gulp-dev/Gulpfile.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/gulp-dev/package.json" afterPath="$PROJECT_DIR$/wp-content/themes/gulp-dev/package.json" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/index.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/404.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/404.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/archive.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/archive.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/author-bio.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/author-bio.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/comments.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/comments.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/content-link.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/content-link.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/content-none.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/content-none.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/content-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/content-page.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/content-search.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/content-search.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/content.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/content.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/css/editor-style.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/css/editor-style.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/css/ie.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/css/ie.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/css/ie7.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/css/ie7.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/footer.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/functions.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/COPYING.txt" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/COPYING.txt" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/Genericons.eot" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/Genericons.eot" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/Genericons.svg" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/Genericons.svg" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/Genericons.ttf" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/Genericons.ttf" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/Genericons.woff" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/Genericons.woff" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/LICENSE.txt" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/LICENSE.txt" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/README.md" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/README.md" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/genericons.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/genericons.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/header.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/image.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/image.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/inc/back-compat.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/inc/back-compat.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/inc/custom-header.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/inc/custom-header.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/inc/customizer.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/inc/customizer.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/inc/template-tags.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/inc/template-tags.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/index.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/color-scheme-control.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/color-scheme-control.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/customize-preview.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/customize-preview.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/functions.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/functions.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/html5.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/html5.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/keyboard-image-navigation.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/keyboard-image-navigation.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/skip-link-focus-fix.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/skip-link-focus-fix.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/page.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/page.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/readme.txt" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/readme.txt" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/rtl.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/rtl.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/screenshot.png" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/screenshot.png" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/search.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/search.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/sidebar.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/sidebar.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/single.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/single.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/style.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/404.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/404.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/README.txt" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/README.txt" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/archive.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/archive.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/colors-dark.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/colors-dark.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/editor-style.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/editor-style.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/ie8.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/ie8.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/ie9.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/ie9.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/images/coffee.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/images/coffee.jpg" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/images/espresso.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/images/espresso.jpg" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/images/header.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/images/header.jpg" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/images/sandwich.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/images/sandwich.jpg" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/images/svg-icons.svg" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/images/svg-icons.svg" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/customize-controls.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/customize-controls.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/customize-preview.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/customize-preview.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/global.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/global.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/html5.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/html5.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/navigation.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/navigation.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/comments.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/comments.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/footer.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/front-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/front-page.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/header.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/back-compat.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/back-compat.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/color-patterns.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/color-patterns.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/custom-header.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/custom-header.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/customizer.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/customizer.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/icon-functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/icon-functions.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/template-functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/template-functions.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/template-tags.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/template-tags.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/index.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/page.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/page.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/rtl.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/rtl.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/screenshot.png" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/screenshot.png" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/search.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/search.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/searchform.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/searchform.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/sidebar.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/sidebar.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/single.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/single.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/style.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/header/header-image.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/header/header-image.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/header/site-branding.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/header/site-branding.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/page/content-front-page-panels.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/page/content-front-page-panels.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/page/content-front-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/page/content-front-page.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/page/content-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/page/content-page.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-audio.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-audio.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-excerpt.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-excerpt.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-gallery.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-gallery.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-image.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-image.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-none.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-none.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-video.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-video.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/404.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/404.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/archive.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/archive.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/comments.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/comments.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/editor-style.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/editor-style.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/ie.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/ie.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/ie7.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/ie7.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/ie8.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/ie8.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/footer.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/functions.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/COPYING.txt" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/COPYING.txt" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/Genericons.eot" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/Genericons.eot" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/Genericons.svg" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/Genericons.svg" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/Genericons.ttf" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/Genericons.ttf" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/Genericons.woff" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/Genericons.woff" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/LICENSE.txt" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/LICENSE.txt" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/README.md" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/README.md" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/genericons.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/genericons.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/header.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/image.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/image.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/inc/back-compat.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/inc/back-compat.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/inc/customizer.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/inc/customizer.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/inc/template-tags.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/inc/template-tags.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/index.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/color-scheme-control.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/color-scheme-control.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/customize-preview.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/customize-preview.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/functions.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/functions.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/html5.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/html5.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/keyboard-image-navigation.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/keyboard-image-navigation.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/skip-link-focus-fix.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/skip-link-focus-fix.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/page.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/page.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/readme.txt" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/readme.txt" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/rtl.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/rtl.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/screenshot.png" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/screenshot.png" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/search.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/search.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/searchform.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/searchform.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/sidebar-content-bottom.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/sidebar-content-bottom.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/sidebar.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/sidebar.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/single.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/single.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/style.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/biography.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/biography.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content-none.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content-none.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content-page.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content-search.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content-search.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content-single.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content-single.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/404.php" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/404.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/LICENSE" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/README.md" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/README.md" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/archive.php" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/archive.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/comments.php" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/comments.php" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/footer.php" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/functions.php" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/header.php" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/inc/custom-header.php" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/inc/custom-header.php" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/inc/extras.php" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/inc/extras.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/inc/customizer.php" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/inc/customizer.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/inc/jetpack.php" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/inc/jetpack.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/inc/template-functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/inc/template-functions.php" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/inc/template-tags.php" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/inc/template-tags.php" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/js/functions.js" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/js/functions.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/index.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/js/customizer.js" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/js/customizer.js" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/js/navigation.js" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/js/navigation.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/js/skip-link-focus-fix.js" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/js/skip-link-focus-fix.js" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/languages/readme.txt" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/languages/readme.txt" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/languages/wolf.pot" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/languages/wolf.pot" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/layouts/content-sidebar.css" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/layouts/content-sidebar.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/layouts/sidebar-content.css" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/layouts/sidebar-content.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/page.php" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/page.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/phpcs.xml.dist" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/phpcs.xml.dist" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/readme.txt" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/readme.txt" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/rtl.css" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/rtl.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/_normalize.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/_normalize.scss" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/elements/_elements.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/elements/_elements.scss" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/elements/_lists.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/elements/_lists.scss" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/elements/_tables.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/elements/_tables.scss" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/forms/_buttons.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/forms/_buttons.scss" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/layout/_global.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/layout/_global.scss" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/forms/_fields.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/forms/_fields.scss" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/forms/_forms.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/forms/_forms.scss" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/maps/style.css.map" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/maps/style.css.map" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/media/_captions.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/media/_captions.scss" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/media/_galleries.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/media/_galleries.scss" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/media/_images.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/media/_images.scss" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/media/_media.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/media/_media.scss" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/mixins/_mixins-master.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/mixins/_mixins-master.scss" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/modules/_accessibility.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/modules/_accessibility.scss" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/modules/_alignments.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/modules/_alignments.scss" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/modules/_clearings.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/modules/_clearings.scss" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/modules/_infinite-scroll.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/modules/_infinite-scroll.scss" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/navigation/_links.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/navigation/_links.scss" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/navigation/_menus.scss" afterPath="" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/navigation/_navigation.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/navigation/_navigation.scss" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/site/_site.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/site/_site.scss" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/site/footer/_footer.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/site/footer/_footer.scss" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/site/header/_header-menu.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/site/header/_header-menu.scss" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/site/header/_header.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/site/header/_header.scss" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/site/primary/_comments.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/site/primary/_comments.scss" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/site/primary/_posts-and-pages.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/site/primary/_posts-and-pages.scss" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/site/secondary/_widgets.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/site/secondary/_widgets.scss" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/style.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/style.scss" />
@@ -39,10 +230,19 @@
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/typography/_headings.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/typography/_headings.scss" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/typography/_typography.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/typography/_typography.scss" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/variables-site/_colors.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/variables-site/_colors.scss" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/variables-site/_columns.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/variables-site/_columns.scss" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/variables-site/_structure.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/variables-site/_structure.scss" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/variables-site/_typography.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/variables-site/_typography.scss" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sass/variables-site/_variables-site.scss" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sass/variables-site/_variables-site.scss" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/screenshot.png" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/screenshot.png" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/search.php" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/search.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/sidebar.php" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/sidebar.php" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/single.php" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/single.php" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/style.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/template-parts/content-none.php" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/template-parts/content-none.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/template-parts/content-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/template-parts/content-page.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/template-parts/content-search.php" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/template-parts/content-search.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/template-parts/content-single.php" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/template-parts/content-single.php" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/wolf/template-parts/content.php" afterPath="$PROJECT_DIR$/wp-content/themes/wolf/template-parts/content.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,12 +256,32 @@
     <favorites_list name="wolfetariat" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="_posts-and-pages.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/site/primary/_posts-and-pages.scss">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="_widgets.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/sass/site/secondary/_widgets.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="622">
-              <caret line="176" column="1" lean-forward="false" selection-start-line="176" selection-start-column="1" selection-end-line="176" selection-end-column="1" />
+            <state relative-caret-position="691">
+              <caret line="233" column="16" lean-forward="false" selection-start-line="233" selection-start-column="16" selection-end-line="233" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header-nav.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/template-parts/header-nav.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -70,86 +290,50 @@
       <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="162" column="52" lean-forward="false" selection-start-line="162" selection-start-column="52" selection-end-line="162" selection-end-column="52" />
+            <state relative-caret-position="743">
+              <caret line="112" column="10" lean-forward="true" selection-start-line="112" selection-start-column="10" selection-end-line="112" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sidebar-footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sidebar-footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-              <folding>
-                <element signature="e#6#179#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-              <folding>
-                <element signature="e#6#244#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sidebar.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sidebar.php">
+      <file leaf-file-name="_mixins-master.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/sass/mixins/_mixins-master.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="27" />
-              <folding>
-                <element signature="e#6#179#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_widgets.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/site/secondary/_widgets.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="235" column="0" lean-forward="true" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="content-single.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/template-parts/content-single.php">
+      <file leaf-file-name="_posts-and-pages.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/sass/site/primary/_posts-and-pages.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-198">
-              <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-              <folding>
-                <marker date="1518823387437" expanded="true" signature="1421:1427" ph="→" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_footer.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/site/footer/_footer.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            <state relative-caret-position="119">
+              <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_colors.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/variables-site/_colors.scss">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="28" />
+            <state relative-caret-position="472">
+              <caret line="900" column="0" lean-forward="false" selection-start-line="900" selection-start-column="0" selection-end-line="900" selection-end-column="0" />
+              <folding>
+                <marker date="1518979672705" expanded="true" signature="9042:9054" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="content.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/template-parts/content.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -163,11 +347,19 @@
       <find>font</find>
       <find>add</find>
       <find>twentyseventeen</find>
-      <find>nav</find>
       <find>humescores</find>
+      <find>style</find>
+      <find>pos</find>
+      <find>content</find>
+      <find>site-header</find>
+      <find>wolf</find>
+      <find>entry</find>
+      <find>hillsborough</find>
+      <find>nav</find>
     </findStrings>
     <replaceStrings>
       <replace>wolf</replace>
+      <replace>duck</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -176,20 +368,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/wp-config.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/wolf/gulp-dev/Gulpfile.js" />
-        <option value="$PROJECT_DIR$/wp-content/themes/gulp-dev/package.json" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/wp-content/themes/gulp-dev/Gulpfile.js" />
-        <option value="$PROJECT_DIR$/.htaccess" />
-        <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/wolf/sass/mixins/_mixins-master.scss" />
-        <option value="$PROJECT_DIR$/wp-content/themes/wolf/sass/typography/_typography.scss" />
-        <option value="$PROJECT_DIR$/wp-content/themes/wolf/sass/style.scss" />
-        <option value="$PROJECT_DIR$/wp-content/themes/wolf/inc/custom-header.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/wolf/sass/modules/_clearings.scss" />
-        <option value="$PROJECT_DIR$/wp-content/themes/wolf/sass/site/header/_header.scss" />
-        <option value="$PROJECT_DIR$/wp-content/themes/wolf/js/navigation.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/wolf/sass/forms/_buttons.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/wolf/sass/site/_site.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/wolf/header.php" />
@@ -223,6 +401,24 @@
         <option value="$PROJECT_DIR$/wp-content/themes/wolf/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/wolf/sidebar-footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/wolf/sass/site/secondary/_widgets.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/duck/gulp-dev/package.json" />
+        <option value="$PROJECT_DIR$/wp-content/themes/duck/page-home.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/duck/gulp-dev/Gulpfile.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/duck/style.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/duck/sass/site/header/_header.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/duck/sass/site/header/_header-menu.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/duck/sass/variables-site/_colors.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/duck/sass/site/secondary/_widgets.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/duck/inc/template-tags.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/duck/inc/extras.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/duck/inc/template-functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/duck/inc/customizer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/duck/inc/custom-header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/duck/sass/site/primary/_posts-and-pages.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/duck/template-parts/content-home.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/wolf/template-parts/header-nav.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/duck/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/duck/functions.php" />
       </list>
     </option>
   </component>
@@ -232,15 +428,20 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NamedScopeManager">
+    <scope name="duck" pattern="file[wolfetariat]:wp-content/themes/duck/sass/*" />
+  </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/gulp-dev/node_modules" />
+    <handled-path value="$PROJECT_DIR$/wp-content/themes/duck/gulp-dev/node_modules" />
     <handled-path value="$PROJECT_DIR$/wp-content/themes/gulp-dev/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="32" />
-    <option name="y" value="54" />
-    <option name="width" value="932" />
-    <option name="height" value="964" />
+    <option name="x" value="297" />
+    <option name="y" value="98" />
+    <option name="width" value="1398" />
+    <option name="height" value="822" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -258,7 +459,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -282,21 +482,14 @@
               <item name="wolfetariat" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="gulp-dev" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="duck" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="wolfetariat" type="b2602c69:ProjectViewProjectNode" />
               <item name="wolfetariat" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wolf" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="wolfetariat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wolfetariat" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wolf" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="duck" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="sass" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -304,24 +497,50 @@
               <item name="wolfetariat" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wolf" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="duck" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="sass" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="site" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="mixins" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="wolfetariat" type="b2602c69:ProjectViewProjectNode" />
               <item name="wolfetariat" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wolf" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="duck" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="sass" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="site" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="footer" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="wolfetariat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wolfetariat" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="duck" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sass" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="site" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="primary" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="wolfetariat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wolfetariat" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="duck" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="template-parts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="wolfetariat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wolfetariat" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="duck" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="style.scss" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -329,18 +548,23 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/themes/duck" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/duck/template-parts" />
+      <recent name="$PROJECT_DIR$/../word-dev/wp-content" />
       <recent name="$PROJECT_DIR$/wp-content/themes/wolf/template-parts" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/themes/duck/template-parts" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/duck" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/duck/" />
       <recent name="$PROJECT_DIR$/wp-content/themes/wolf/sass/site" />
       <recent name="$PROJECT_DIR$/wp-content/themes/wolf/sass" />
-      <recent name="$PROJECT_DIR$/wp-content/themes/wolf/sass/layout" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/wp-content/themes" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -370,34 +594,37 @@
       <updated>1518281277546</updated>
       <workItem from="1518281278821" duration="37411000" />
       <workItem from="1518569404227" duration="763000" />
-      <workItem from="1518665179275" duration="13699000" />
+      <workItem from="1518665179275" duration="13912000" />
+      <workItem from="1518874615997" duration="2704000" />
+      <workItem from="1518882946184" duration="12195000" />
+      <workItem from="1518968006404" duration="10906000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51873000" />
+    <option name="totallyTimeSpent" value="77891000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="32" y="54" width="932" height="964" extended-state="0" />
+    <frame x="297" y="98" width="1398" height="822" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24494383" sideWeight="0.4959724" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27507374" sideWeight="0.4959724" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29066667" sideWeight="0.5040276" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29066667" sideWeight="0.5040276" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -407,18 +634,18 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20435685" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27507374" sideWeight="0.4959724" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29066667" sideWeight="0.5040276" order="0" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -431,109 +658,12 @@
     <wordpressPath>$PROJECT_DIR$</wordpressPath>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/modules/_clearings.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/inc/template-functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/inc/customizer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-33">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/gulp-dev/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2540">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/navigation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="62" lean-forward="true" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="446" column="30" lean-forward="false" selection-start-line="446" selection-start-column="30" selection-end-line="446" selection-end-column="129" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/icon-functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="199" column="38" lean-forward="true" selection-start-line="199" selection-start-column="38" selection-end-line="199" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/forms/_buttons.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/site/_site.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/site/header/_header.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="59" column="44" lean-forward="false" selection-start-line="59" selection-start-column="44" selection-end-line="59" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/site/header/_header-menu.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="129" column="36" lean-forward="true" selection-start-line="129" selection-start-column="36" selection-end-line="129" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/variables-site/_variables-site.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -541,122 +671,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/elements/_elements.scss">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/_normalize.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/typography/_copy.scss">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        <state relative-caret-position="399">
+          <caret line="41" column="15" lean-forward="true" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/elements/_tables.scss">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/site/footer/_footer.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/elements/_lists.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/typography/_headings.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/modules/_alignments.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/media/_images.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="60">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/media/_media.scss">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/site/header/_header-menu.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="50" lean-forward="false" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+        <state relative-caret-position="1770">
+          <caret line="118" column="12" lean-forward="true" selection-start-line="118" selection-start-column="12" selection-end-line="118" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/navigation/_links.scss">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/site/primary/_posts-and-pages.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/media/_galleries.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="19" lean-forward="true" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+        <state relative-caret-position="375">
+          <caret line="25" column="3" lean-forward="false" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/media/_captions.scss">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/site/_site.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/navigation/_menus.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/navigation/_content-navigation.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="6" lean-forward="false" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/navigation/_navigation.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/inc/extras.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="37" column="3" lean-forward="true" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/variables-site/_structure.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="375">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -664,38 +719,315 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/single.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/template-parts/content.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/inc/custom-header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="24" column="16" lean-forward="false" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="33" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/layout/_global.scss">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/inc/template-functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="732">
-          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+        <state relative-caret-position="420">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/inc/template-tags.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="53" column="23" lean-forward="false" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+        <state relative-caret-position="3150">
+          <caret line="216" column="1" lean-forward="false" selection-start-line="216" selection-start-column="1" selection-end-line="216" selection-end-column="1" />
           <folding>
             <element signature="e#6#164#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/gulp-dev/Gulpfile.js">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/variables-site/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/navigation/_navigation.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/gulp-dev/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/gulp-dev/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#365#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="716" column="12" lean-forward="false" selection-start-line="716" selection-start-column="1" selection-end-line="716" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1518979672705" expanded="true" signature="9042:9054" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/gulp-dev/Gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="19" lean-forward="false" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="716" column="12" lean-forward="false" selection-start-line="716" selection-start-column="1" selection-end-line="716" selection-end-column="12" />
+          <folding>
+            <marker date="1518979672705" expanded="true" signature="9042:9054" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/sass/site/_site.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/sass/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="55" column="14" lean-forward="false" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/sass/site/header/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="50" column="21" lean-forward="false" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/sass/site/header/_header-menu.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="709">
+          <caret line="52" column="20" lean-forward="false" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/sass/site/footer/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/sass/variables-site/_colors.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/inc/template-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/inc/template-tags.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/inc/extras.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="45" column="28" lean-forward="false" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/inc/customizer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="757">
+          <caret line="54" column="43" lean-forward="false" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/inc/custom-header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/template-parts/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/sass/mixins/_mixins-master.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/sass/site/primary/_posts-and-pages.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="900" column="0" lean-forward="false" selection-start-line="900" selection-start-column="0" selection-end-line="900" selection-end-column="0" />
+          <folding>
+            <marker date="1518979672705" expanded="true" signature="9042:9054" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/template-parts/content-home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/page-home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="27" lean-forward="false" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <folding>
+            <element signature="e#6#365#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/style.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -703,133 +1035,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/gulp-dev/package.json">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/sass/site/secondary/_widgets.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="691">
+          <caret line="233" column="16" lean-forward="false" selection-start-line="233" selection-start-column="16" selection-end-line="233" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/js/functions.js">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        <state relative-caret-position="360">
+          <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/js/navigation.js">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
-          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/js/skip-link-focus-fix.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/js/customizer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/variables-site/_colors.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/site/primary/_posts-and-pages.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="622">
-          <caret line="176" column="1" lean-forward="false" selection-start-line="176" selection-start-column="1" selection-end-line="176" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/variables-site/_typography.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/template-parts/content-single.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-198">
-          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-          <folding>
-            <marker date="1518823387437" expanded="true" signature="1421:1427" ph="→" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sidebar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="27" />
-          <folding>
-            <element signature="e#6#179#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/site/footer/_footer.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <caret line="39" column="68" lean-forward="true" selection-start-line="39" selection-start-column="68" selection-end-line="39" selection-end-column="68" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="162" column="52" lean-forward="false" selection-start-line="162" selection-start-column="52" selection-end-line="162" selection-end-column="52" />
+        <state relative-caret-position="743">
+          <caret line="112" column="10" lean-forward="true" selection-start-line="112" selection-start-column="10" selection-end-line="112" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-          <folding>
-            <element signature="e#6#244#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sidebar-footer.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding>
-            <element signature="e#6#179#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/wolf/sass/site/secondary/_widgets.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="235" column="0" lean-forward="true" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/duck/template-parts/header-nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>duck</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+          <order>
+            <scope name="duck" />
+          </order>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
